@@ -1,7 +1,3 @@
-# Raw data
-data/raw/
-data/processed/
-results/
 
 # Python cache
 __pycache__/
@@ -19,3 +15,6 @@ __pycache__/
 
 venv/
 
+train/
+test/
+validation/
